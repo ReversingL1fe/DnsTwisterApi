@@ -10,3 +10,5 @@ There are 3 csv's.
 -The incidents.csv list is loaded with domains and ips that have recently been stood up and need to be anaalyzed by the team. After analysis and incident creation the csv list needs to be cleared. 
 
 Before executing the script you need to make sure the directory path within the functions lead to the appropriate folder that you allocate the program files towards. 
+
+Have any questions, email me at dal7@rice.edu.
